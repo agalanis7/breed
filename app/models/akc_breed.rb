@@ -1,0 +1,2 @@
+class AkcBreed < ApplicationRecord
+end
